@@ -31,7 +31,7 @@ const support = [
 const social = [
   {
     name: 'Discord',
-    link: 'https://discord.gg/UGdAbu7QyB',
+    link: 'https://discord.gg/',
     newTab: true
   },
   {
